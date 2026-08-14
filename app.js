@@ -1,0 +1,11 @@
+"use strict";
+let nameee = "Moazzem ";
+let Roll = 12344;
+let hello = true;
+console.log(nameee);
+console.log(Roll);
+console.log(hello);
+let input = 1233;
+input = "mala";
+input = false;
+console.log(input);
