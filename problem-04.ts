@@ -5,7 +5,7 @@ console.log(user)
 
 
 
-let students:[string,number,boolean]=[
+let students:[string?,number?,boolean?]=[
     "Moazzem",
     333,
     true
