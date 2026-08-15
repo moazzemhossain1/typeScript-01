@@ -28,3 +28,12 @@ function largestNumber(array:number[]){
 }
 let largers=largestNumber(array);
 console.log(largers)
+
+
+
+function PrinId(id:number | string){
+    console.log(id)
+
+}
+console.log(PrinId(10));
+console.log("Ablede".toLocaleUpperCase())

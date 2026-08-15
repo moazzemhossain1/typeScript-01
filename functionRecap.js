@@ -17,3 +17,8 @@ function largestNumber(array) {
 }
 let largers = largestNumber(array);
 console.log(largers);
+function PrinId(id) {
+    console.log(id);
+}
+console.log(PrinId(10));
+console.log("Ablede".toLocaleUpperCase());
